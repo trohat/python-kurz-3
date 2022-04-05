@@ -1,0 +1,9 @@
+1.) Uživatel zadá roční příjmy, roční výdaje a daňovou sazbu.
+
+Vypočítejte jaký má zisk a jaké platí daně.
+
+Nápověda:
+zisk = příjmy - výdaje
+daně = daňová sazba * zisk 
+(daňová sazba může být zadávána jako 0.15 nebo jako 15 - ve druhém případě 
+musíte ještě výsledek vydělit stem)
