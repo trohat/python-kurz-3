@@ -1,0 +1,15 @@
+spouštění Pythonu:
+py NEBO python NEBO python3
+
+a ověřte si že máte verzi 3.x.x, ideálně 3.10.x
+
+objeví se 3 šipky a můžete zadávat příkazy
+
+NEBO
+
+program Python nebo program IDLE (jako když spouštíte jakýkoliv 
+jiný porgram na svém PC)
+
+
+spouštění skriptů:
+py NEBO python NEBO python3 + přidat jméno souboru
