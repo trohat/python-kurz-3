@@ -1,0 +1,7 @@
+cykly:
+
+2 typy
+
+FOR cyklus
+
+WHILE cyklus
