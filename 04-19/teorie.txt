@@ -1,0 +1,27 @@
+nový datový typ: Listy, neboli česky seznamy
+
+zatím umíme:
+indexovat (a to i pomocí záporných indexů)
+
+funkce: len
+
+list slicing (pomocí hranatých závorek a do nich jdou 
+dvě nebo tři čísla, první číslo je start, druhé je end, třetí je o kolik)
+
+metody:
+append - přidat JEDEN prvek
+extend - připojit celý seznam (stejně funguje operátor +)
+pop - odebrat poslední prvek
+count - zjistit počet výskytů nějakého prvku
+index - vyhledání prvku, pokud není, vyhodí chybu ValueError
+insert - vložení prvku na konkrétní pozici
+remove - odstranění prvku
+
+operátor del - vymazání, ale pomocí indexu
+operátor in - zda je prvek v seznamu
+
+další funkce:
+max, min, sum
+
+https://docs.python.org/3/tutorial/datastructures.html
+https://www.programiz.com/python-programming/methods/list
