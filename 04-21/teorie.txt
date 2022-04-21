@@ -1,0 +1,14 @@
+SEZNAMY JSOU MUTABLE (měnitelné)
+
+lists are mutable!!!!! don't forget!!!!
+
+
+existuje něco, co je IMMUTABLE?
+
+ANO, je to TUPLE (česky n-tice)
+
+n-tice - například dvojice, trojice, čtveřice, pětice, atd.
+
+tuples are IMMUTABLE
+
+n-tice jsou neměnitelné, konstantní
