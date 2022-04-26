@@ -17,4 +17,8 @@ novy3 = [int(cislo) for cislo in seznam]
 # méně často - probírat nebudeme
 novy2 = map(int, seznam)
 
+#obrázek s funkcí map:
+#https://medium.com/@fmuiin14/map-filter-and-reduce-in-javascript-map-e2aaa3562748
+
+
 

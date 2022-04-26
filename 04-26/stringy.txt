@@ -1,0 +1,11 @@
+ŘETĚZCE JSOU IMMUTABLE (NEMĚNNÉ!!!)
+
+funkce na řetězcích: ord, chr, list
+
+metody na řetězcích: upper, lower, capitalize, title, swapcase,
+strip, lstrip, rstrip, center, count, find, rfind, index, rindex,
+replace, startswith, endswith, join, split
+
+metody co vrací boolean: isupper, islower, isalpha, isalnum, isdigit, isascii
+
+operátory na řetězcích: in, not in
