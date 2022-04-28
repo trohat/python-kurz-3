@@ -1,0 +1,6 @@
+proměnné jsou lokální a globální
+
+globální - definované MIMO funkci a přístupné v celém programu
+
+lokální - definované uvnitř funkce, když funkce skončí,
+tak jsou zapomenuty
