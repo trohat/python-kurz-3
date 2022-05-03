@@ -1,0 +1,17 @@
+DATOVÉ TYPY:
+
+1.) ČÍSELNÉ - integer, float, boolean
+
+2.) LIST - seznam a TUPLE - n-tice
+
+4.) DICTIONARY - slovníky
+
+5.) STRING - řetězce
+
+6.) SET (množina)
+
+---------------------------------------------------
+
+LISTY lze měnit - přidávat prvky, měnit prvky, mazat prvky - jsou tzv. MUTABLE
+TUPLES měnit NELZE! - nelze přidávat prvky, mazat ani přepisovat - jsou tzv. IMMUTABLE
+            - to se hodí pro použití do klíčů ve slovníku, které musí být IMMUTABLE
