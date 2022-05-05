@@ -4,7 +4,7 @@ from pprint import pprint
 pes = {
     "jmeno": "Alík",
     "barva": "hnědá",
-    "váha": 10,
+    "váha": 5 * 6 + 30,
     "plemeno": "vlčák",
     "umí hlídat": True,
     "jméno majitele": "Adam",

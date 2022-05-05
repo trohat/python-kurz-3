@@ -1,0 +1,9 @@
+
+KLÍČE VE SLOVNÍKU:
+
+klíče ve slovníku může být cokoliv, ale musí to býT
+
+IMMUTABLE, HASHABLE
+
+co je IMMUTABLE:
+stringy, čísla (ale ty se moc nehodí, na to máme seznamy)
