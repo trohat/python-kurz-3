@@ -33,8 +33,31 @@ def pig_latin_anycase_shorter_version(word):
         result = result.capitalize()
     return result
 
+def pig_latin_punctuation(word):
+    #ZJISTI, JESTLI MÁ TEČKU NEBO ČÁRKU
+    last_letter = word[-1]
+    #TEČKU NEBO ČÁRKU DEJ PRYČ
+    if last_letter in ".,!?":
+        word = word[:-1]
+    else:
+        last_letter = ""
+    #PŘEVEĎ DO PIG LATIN POMOCÍ UŽ HOTOVÝCH FUNKCÍ
+    word = pig_latin_anycase_shorter_version(word)
+    #POKUD BYLA TEČKA NEBO ČÁRKA, VRAŤ JI TAM
+    word = word + last_letter
+    return word
+
+def pig_latin_sentence(sentence):
+    sentence_list = sentence.split()
+    #print(sentence_list)
+    new_sentence_list = []
+    for word in sentence_list:
+        transformed_word = pig_latin_punctuation(word)
+        new_sentence_list.append(transformed_word)
+    result = " ".join(new_sentence_list)
+    return result
+
 # tohle jsou testy na ověření, jeslti funkce pracuje správně 
-# (zatím nepracuje ... ale to zlepšíme)
 print(pig_latin_lowercase("elephant"))
 print(pig_latin_lowercase("cat"))
 print(pig_latin_lowercase("octopus"))
@@ -45,3 +68,9 @@ print(pig_latin_anycase("Telephone"))
 print(pig_latin_anycase("octopus"))
 print(pig_latin_anycase("Octopus"))
 
+print(pig_latin_punctuation("telephone,"))
+print(pig_latin_punctuation("Telephone."))
+print(pig_latin_punctuation("octopus"))
+print(pig_latin_punctuation("Octopus"))
+
+print(pig_latin_sentence("Hi Andy, how are you? Are you going to Amsterdam today?"))

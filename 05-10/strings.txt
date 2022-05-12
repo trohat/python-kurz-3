@@ -18,6 +18,8 @@ c) nahraďte slovo slon slovem nosorožec
 
 -------------------------------------------------------------
 
+První sada: 
+
 1.) Vytvořte funkci, která vezme slovo 
 a vytvoří z něj slovo v Pig Latin
 a) Když slovo začíná samohláskou, přidá se na konec "way"
@@ -25,13 +27,13 @@ b) Když slovo začíná souhláskou, souhláska se odebere, přidá se na konec
 a za ní se přidá "ay"
 air => airway
 ear => earway
-elephant => elephantway
+eleyphant => elephantway
 computer => omputercay
 cat => atcay
 papaya => apayapay
 
 2.) Těžší verze:
-Pokud je v daném slově první písmeno velké, 
+Pokud jye v daném slově první písmeno velké, 
 bude velké první písmeno i ve výsledku
 Computer => Omputercay
 
@@ -52,7 +54,8 @@ octopus => uboctubopubus
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Pokud chcete další cvičení, tak zde (ale spíše jako domácí úkol):
+Druhá sada:
+
 1.) Spočítejte, kolik je ve slově samohlásek (ale pokud jste zvládli 
 to předtím, tak tohle bude dost lehké)
 "elephant" => 3
