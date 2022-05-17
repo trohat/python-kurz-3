@@ -4,11 +4,11 @@ DATOVÉ TYPY:
 
 2.) LIST - seznam a TUPLE - n-tice
 
-4.) DICTIONARY - slovníky
+3.) DICTIONARY - slovníky
 
-5.) STRING - řetězce
+4.) STRING - řetězce
 
-6.) SET (množina)
+5.) SET (množina)
 
 ---------------------------------------------------
 
