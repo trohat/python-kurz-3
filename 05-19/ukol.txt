@@ -1,0 +1,24 @@
+API:
+1.) Prohlédněte si SWAPI na adrese https://swapi.dev/. 
+Zkuste do něj poslat dotaz na třetí planetu vyskytující se 
+ve filmech a pak dotaz na první postavu.
+Získaná data nějak zpracujte a prohlédněte si je. 
+Vypište, jaké má třetí planeta podnebí a terén. Vypište, 
+v jakých filmech se první postava vyskytuje.
+
+2.) Když už máte vypsané filmy pro první postavu, zkuste si do 
+zvláštní proměnné uložit adresu pro první z nich. Pošlete request
+na tuto adresu. Získaná data opět zpracujte a prohlédněte si je.
+Zkuste vypsat titul epizody, jméno režiséra a úvodní text filmu.
+
+3.) Použijte film z bodu 2 a vypište si do zvláštní proměnné
+adresu pro první planetu v něm se vyskytující. Opět pošlete znovu
+dotaz na tuto adresu. Po zpracování dat vypište dobu oběhu a průměr
+planety.
+
+4.) Pošlete request (požadavek), který vrátí všechny lidi v celém SW
+vesmíru. Vypište jejich jména.
+
+5.) Stejným způsobem vypište všechny planety (jen jejich jména).
+
+6.) Stejným způsobem vypište režiséry všech filmů.

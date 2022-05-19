@@ -1,0 +1,5 @@
+
+
+API - application programming interface
+
+JSON - JavaScript Object Notation
