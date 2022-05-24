@@ -1,0 +1,54 @@
+soubor - to je třeba tohle do čeho právě píšu
+
+adresář (anglicky directory)
+(znáte jako složka, anglicky folder) - tam se vejde víc souborů
+
+cesta (path)
+
+os.getcwd() = get current working directory
+
+os.chdir()
+
+os.curdir = current directory (vrací tečku, což znamená aktuální adresář)
+
+os.pardir
+
+os.listdir()
+
+os.mkdir()
+
+os.makedirs()
+
+os.path.join
+
+os.path.exists
+
+os.path.isdir
+
+os.path.isfile
+
+os.path.isabs
+
+os.path.abspath
+
+os.path.relpath
+
+os.path.basename
+
+os.path.dirname
+
+os.path.split
+
+os.path.splitext
+
+os.path.getsize
+
+shutil.copy
+
+shutil.move
+
+os.unlink
+
+os.rmdir
+
+shutil.rmtree - POZOR, MAŽE VŠE A NEPTÁ SE!!!!

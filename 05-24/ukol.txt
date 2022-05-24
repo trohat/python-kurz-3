@@ -1,0 +1,15 @@
+1.) Vytovořte si (jednoduše ve VS Codu nebo poznámkovém bloku)
+textový soubor, který obsahuje pět řádků s nějakými zajímavými informacemi
+(např. pět vašich oblíbeých filmů)
+
+2.) Pomocí Pythonu tento soubor přečtěte a jeho obsah vypište do terminálu
+
+3.) Zkuste různé způsoby jak soubor přečíst (metody read, readlines nebo cyklus)
+
+4.) Zkuste různé způsoby jak soubor otevřít (pomocí klíčového slova WITH nebo
+bez něj)
+
+5.) Pomocí Pythonu vytvořte nový soubor a zapište do něj nějaké nové informace
+(např. pět vašich oblíbených knih)
+
+6.) Pokračujte v Teamsech, practice, modul 7 part 1. Začněte úkolem 2.
