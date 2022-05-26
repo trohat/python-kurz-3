@@ -1,0 +1,17 @@
+
+OOP - objektově orientované programování
+
+třída - to jsou plánky, vzor, blueprint
+
+instance - to je konkrétní objekt
+
+
+
+
+proměnné - atribut, field (není to array)
+
+funkce - metoda
+
+
+
+dunder metoda - dunder = double underscore

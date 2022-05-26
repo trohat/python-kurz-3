@@ -1,4 +1,4 @@
-1.) Vytovořte si (jednoduše ve VS Codu nebo poznámkovém bloku)
+1.) Vytvořte si (jednoduše ve VS Codu nebo poznámkovém bloku)
 textový soubor, který obsahuje pět řádků s nějakými zajímavými informacemi
 (např. pět vašich oblíbeých filmů)
 
