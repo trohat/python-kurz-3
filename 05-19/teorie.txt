@@ -1,0 +1,31 @@
+API = application programming interface
+(způsob komunikace mezi mezi dvěma rozhraními)
+(příklad jsou třeba tlačítka na palubní desce auta - 
+komunikace mezi řidičem a motorem)
+
+
+3 oblíbené způsoby:
+protokol SOAP - simple object access protocol, používá XML
+
+architektura REST - budeme dělat podrobněji
+
+GraphQL od Facebooku - nejnovější, uvádím jen pro úplnost
+
+
+REST, REST API, RESTful API - synonyma
+
+CRUD = create, read, update, delete
+
+read - GET
+create - POST
+update - PUT, PATCH
+delete - DELETE 
+
+HTTP metody, které používá REST API - get, post, put, delete
+
+Obecně o API:
+https://realpython.com/api-integration-in-python/
+https://www.itnetwork.cz/javascript/nodejs/rest-api-soap-graph-a-json
+
+Seznam API:
+https://github.com/public-apis/public-apis
