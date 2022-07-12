@@ -1,3 +1,4 @@
+# tohle je skládání (kompozice) objektů
 class Motor:
     def __init__(self, objem, vykon):
         self.objem = objem

@@ -1,0 +1,32 @@
+DATABÁZE - ukládání dat  
+
+SQL - Structured Query Language
+
+druhý typ - NoSQL
+
+SQL - MySQL, PostgreSQL, MSSQL, SQLite
+
+jak je to v Djangu? 
+    - Django používá ORM (Object Relational Mapper) - což
+    je mezivrstva, která překládá do SQL za nás
+
+tři základní vazby -
+OneToMany (ForeignKey)
+ManyToMany
+OneToOne
+
+probrali jsme tyhle základní SQL příkazy:
+
+SELECT * FROM *jmeno_tabulky* WHERE *podmínka*
+CREATE TABLE
+ALTER TABLE
+INSERT INTO
+UPDATE *jmeno_tabulky* SET *co_chci_nastavit* WHERE *podmínka*
+DELETE FROM
+DROP TABLE
+
+(bacha ať si omylem nesmažete celou tabulku...)
+
+https://realpython.com/python-sql-libraries/
+
+bacha na SQL injection
